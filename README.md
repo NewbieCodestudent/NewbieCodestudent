@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NewbieCodestudent&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <h1>📚 STACKS</h1>
 <div>
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
@@ -23,4 +24,3 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 </div>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NewbieCodestudent&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
