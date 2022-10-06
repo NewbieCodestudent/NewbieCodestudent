@@ -16,6 +16,9 @@ Here are some ideas to get you started:
 -->
 <h1>📚 STACKS</h1>
 <div>
+  <img src="https://img.shields.io/badge/VSCode-#007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white">
+</div>
+<div>
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 </div>
 <div>
